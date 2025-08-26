@@ -1,0 +1,9 @@
+# Environment variables - DO NOT COMMIT THIS FILE!
+.env
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
